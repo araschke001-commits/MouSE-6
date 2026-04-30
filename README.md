@@ -6,6 +6,8 @@ I made this mouse because I wanted to learn some intermediate CAD designing skil
 ## CAD Model
 I made the CAD Model of the mouse from the Squeak tutorial on Stasis, but I changed it to be curved two ways on the top and also have the Death Star embedded in it.
 
+The 3d printed CAD files are Inside Parts.step and Case.step, the rest include parts of the mouse kit on Bambu Lab.
+
 Here is the Onshape link to it: <https://cad.onshape.com/documents/4e61e2f71b3a8184c1155880/w/6a6b0ce8113edd2f889210ec/e/f6ba5dc228a9a8c2f7df7611>
 
 Here are some pictures of it:
